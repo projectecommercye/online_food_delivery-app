@@ -119,7 +119,7 @@ CREATE TABLE `order` (
 🛠 Step 3: Import the Project in Eclipse
 Open Eclipse IDE.
 Click File → Import → Existing Projects into Workspace.
-Select the FoodDeliveryApplication folder.
+Select the onlinefooddeliveryapp folder.
 Click Finish.
 🌐 Step 4: Configure Tomcat Server
 In Eclipse, go to Window → Show View → Servers.
@@ -130,16 +130,16 @@ Click Finish.
 Right-click the project → Run As → Run on Server.
 Choose Apache Tomcat and click Finish.
 Open your browser and visit:
-http://localhost:8080/FoodDeliveryApplication/
+http://localhost:8080/Onlinefooddeliveryapp/
 💡 Additional Notes
 Make sure MySQL is running before launching the project.
 Update DatabaseConnection.java in com.tap.utility with your MySQL credentials:
-String url = "jdbc:mysql://localhost:3306/FoodDeliveryDB";
+String url = "jdbc:mysql://localhost:3306/onlinefooddeliveryappDB";
 String user = "root";
-String password = "your_password";
+String password = "root";
 If you face any errors, check the Tomcat logs in Eclipse.
 💼 Contributing
 Pull requests are welcome! If you find any issues, feel free to open an issue.
 
 💌 Contact
-For any queries, reach out at yallamamatha5@gmail.com.
+For any queries, reach out at manjulagayathri179@gmail.com.
