@@ -12,10 +12,10 @@ A Java-based web application that allows users to explore restaurants, order foo
       ✔️ Profile Management: Users can edit their profile information.
 
 🔧 Technologies Used
-Frontend: JSP, CSS
-Backend: Java (Servlets, JDBC)
-Database: MySQL
-Server: Apache Tomcat
+      Frontend: JSP, CSS
+      Backend: Java (Servlets, JDBC)
+      Database: MySQL
+      Server: Apache Tomcat
 📝 Project Structure
 FoodDeliveryApplication/
 ├── src/main/java/
@@ -36,13 +36,13 @@ FoodDeliveryApplication/
 Follow these steps to set up and run the project on your system:
 
 🛠 Prerequisites
-Install Java JDK (11 or higher)
-Install Apache Tomcat (9 or higher)
-Install MySQL Server
-Install Eclipse IDE (or any other IDE that supports Java Web Development)
-Add MySQL Connector JAR to the lib/ folder
+           Install Java JDK (11 or higher)
+           Install Apache Tomcat (9 or higher)
+           Install MySQL Server
+           Install Eclipse IDE (or any other IDE that supports Java Web Development)
+            Add MySQL Connector JAR to the lib/ folder
 📝 Step 1: Clone the Repository
-git clone https://github.com/mamatha833/FoodDeliveryApplication.git
+             git clone https://github.com/projectecommercye/online_food_delivery-app.
 🔧 Step 2: Set Up the MySQL Database
 Open MySQL Workbench or any MySQL client.
 Create a new database:
